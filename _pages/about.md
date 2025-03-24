@@ -6,7 +6,7 @@ subtitle: <a href='https://www.lib.montana.edu/directory/1524782/scott-w.-h.-you
 
 profile:
   align: left
-  image: prof_pic.png
+  image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
     <p>Bozeman, Montana, USA</p>
