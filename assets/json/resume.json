@@ -58,6 +58,26 @@
       "courses": ["Theory of Relativity"]
     }
   ],
+  "presentations": [
+		{
+        "name": "PresentationTitle",
+		"meetingName": "PublisherName1",
+		"meetingLocation": "MeetingLocation1",
+		"date": "2014-10-01",
+		"website": "http://your-publication-doi.org",
+		"abstract": "Description1...",
+		"presenters": [
+            "FirstAuthorName",
+			"SecondAuthorName"
+        ],
+		"citations": [
+		{
+			"APA": "YourTitle",
+			"MLA": "2015-01-01"
+		}
+        ]
+		}
+],
   "awards": [
     {
       "title": "Nobel Prize in Physics",
