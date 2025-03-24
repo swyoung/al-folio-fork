@@ -58,26 +58,6 @@
       "courses": ["Theory of Relativity"]
     }
   ],
-  "presentations": [
-		{
-        "name": "PresentationTitle",
-		"meetingName": "PublisherName1",
-		"meetingLocation": "MeetingLocation1",
-		"date": "2014-10-01",
-		"website": "http://your-publication-doi.org",
-		"abstract": "Description1...",
-		"presenters": [
-            "FirstAuthorName",
-			"SecondAuthorName"
-        ],
-		"citations": [
-		{
-			"APA": "YourTitle",
-			"MLA": "2015-01-01"
-		}
-        ]
-		}
-],
   "awards": [
     {
       "title": "Nobel Prize in Physics",
@@ -154,6 +134,26 @@
       "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
     }
   ],
+  "presentations": [
+		{
+        "name": "PresentationTitle",
+		"meetingName": "PublisherName1",
+		"meetingLocation": "MeetingLocation1",
+		"date": "2014-10-01",
+		"website": "http://your-publication-doi.org",
+		"abstract": "Description1...",
+		"presenters": [
+            "FirstAuthorName",
+			"SecondAuthorName"
+        ],
+		"citations": [
+		{
+			"APA": "YourTitle",
+			"MLA": "2015-01-01"
+		}
+        ]
+		}
+],
   "skills": [
     {
       "name": "Physics",
